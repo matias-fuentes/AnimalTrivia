@@ -1,5 +1,3 @@
-# Webpage: https://animal-trivia.netlify.app/
-
 [Lab 8: Trivia](https://cs50.harvard.edu/college/2020/fall/labs/8/#lab-8-trivia)
 ================================================================================
 
