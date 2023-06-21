@@ -6,7 +6,7 @@ WEBPAGE: https://animaltrivia.netlify.app
 
 ## Description
 
-Immerse yourself in the fascinating world of animals with AnimalTrivia, a captivating webpage that puts your knowledge to the test. Step into the virtual trivia arena and challenge yourself with a wide range of intriguing questions about the animal kingdom. From the mighty lions of the savannah to the peculiar creatures of the deep sea, AnimalTrivia covers a diverse array of species, habitats, and behaviors. Engage in a thrilling quest for knowledge as you answer trivia questions and discover fascinating facts about the animal world. Whether you're a nature enthusiast, a trivia lover, or simply looking to expand your knowledge, AnimalTrivia is the perfect destination to satisfy your curiosity and uncover the wonders of the animal kingdom.
+Immerse yourself in the fascinating world of animals with AnimalTrivia, a captivating webpage that puts your knowledge to the test. Step into the virtual trivia arena and challenge yourself with a wide range of intriguing questions about the animal kingdom. Engage in a thrilling quest for knowledge as you answer trivia questions and discover fascinating facts about the animal world. Whether you're a nature enthusiast, a trivia lover, or simply looking to expand your knowledge, AnimalTrivia is the perfect destination to satisfy your curiosity and uncover the wonders of the animal kingdom.
 
 ![AnimalTrivia preview](https://cs50.harvard.edu/college/2020/fall/labs/8/questions.png)
 
