@@ -1,13 +1,18 @@
-[Lab 8: Trivia](https://cs50.harvard.edu/college/2020/fall/labs/8/#lab-8-trivia)
-================================================================================
-
-You are welcome to collaborate with one or two classmates on this lab, though it is expected that every student in any such group contribute equally to the lab.
+# [Lab 8: Trivia](https://cs50.harvard.edu/college/2020/fall/labs/8/#lab-8-trivia)
 
 Write a webpage that lets users answer trivia questions.
 
-![screenshot of trivia questions](https://cs50.harvard.edu/college/2020/fall/labs/8/questions.png)
+WEBPAGE: https://animaltrivia.netlify.app
+
+## Description
+
+Immerse yourself in the fascinating world of animals with AnimalTrivia, a captivating webpage that puts your knowledge to the test. Step into the virtual trivia arena and challenge yourself with a wide range of intriguing questions about the animal kingdom. From the mighty lions of the savannah to the peculiar creatures of the deep sea, AnimalTrivia covers a diverse array of species, habitats, and behaviors. Engage in a thrilling quest for knowledge as you answer trivia questions and discover fascinating facts about the animal world. Whether you're a nature enthusiast, a trivia lover, or simply looking to expand your knowledge, AnimalTrivia is the perfect destination to satisfy your curiosity and uncover the wonders of the animal kingdom.
+
+![AnimalTrivia preview](https://cs50.harvard.edu/college/2020/fall/labs/8/questions.png)
 
 ## Getting Started
+
+You are welcome to collaborate with one or two classmates on this lab, though it is expected that every student in any such group contribute equally to the lab.
 
 Here's how to download this lab into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
 
